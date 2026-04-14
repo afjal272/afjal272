@@ -49,7 +49,7 @@ and actively work on full stack projects to understand real-world system design.
 
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
 **Learning Backend:** Node.js, Express, Prisma, PostgreSQL  
-**Other:** Git, REST APIs, Figma  
+**Other:** Git, REST APIs,   
 
 ---
 
