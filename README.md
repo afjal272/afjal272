@@ -1,4 +1,4 @@
-## 🧠 Md Afjal Ali  
+##  Md Afjal Ali  
 **Frontend Developer | Building Full Stack Applications**
 
 I build responsive, scalable web applications using modern frontend technologies  
@@ -6,7 +6,7 @@ and actively work on full stack projects to understand real-world system design.
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 🛒 Leora – E-Commerce Platform
 - Built responsive UI using Next.js, TypeScript, and Tailwind
@@ -18,7 +18,7 @@ and actively work on full stack projects to understand real-world system design.
 
 ---
 
-### 🤖 Shopio – AI Shopping Decision Engine
+###  Shopio – AI Shopping Decision Engine
 - Developed logic to process user queries (e.g. “best phone under 20k”)
 - Implemented product scoring and ranking system
 - Focused on decision-making instead of simple filtering  
@@ -27,13 +27,13 @@ and actively work on full stack projects to understand real-world system design.
 
 ---
 
-### ⚙️ SaaS Automation Builder (In Progress)
+###  SaaS Automation Builder (In Progress)
 - Working on a WhatsApp-first automation system for eCommerce  
 - Building UI and exploring backend workflows and integrations  
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **Frontend Developer Intern – TechChefz Digital**  
 - Built responsive UI using React and Tailwind CSS  
@@ -45,7 +45,7 @@ and actively work on full stack projects to understand real-world system design.
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
 **Learning Backend:** Node.js, Express, Prisma, PostgreSQL  
@@ -53,7 +53,7 @@ and actively work on full stack projects to understand real-world system design.
 
 ---
 
-## 🧠 Approach
+##  Approach
 
 - Focus on building real-world projects  
 - Write clean and maintainable code  
@@ -61,13 +61,13 @@ and actively work on full stack projects to understand real-world system design.
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - Email: mdafjalali272@gmail.com  
 - GitHub: https://github.com/afjal272  
 
 ---
 
-## ⚡ Current Focus
+##  Current Focus
 
 Improving backend skills and building complete full stack applications.
