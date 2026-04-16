@@ -8,7 +8,7 @@ and actively work on full stack projects to understand real-world system design.
 
 ##  Projects
 
-### 🛒 Leora – E-Commerce Platform
+###  Leora – E-Commerce Platform
 - Built responsive UI using Next.js, TypeScript, and Tailwind
 - Implemented product listing, cart, and checkout flow
 - Integrated backend APIs for authentication and data handling  
