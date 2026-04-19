@@ -64,8 +64,8 @@ and actively work on full stack projects to understand real-world system design.
 ##  Contact
 
 - Email: mdafjalali272@gmail.com  
-- GitHub: https://github.com/afjal272  
-
+- LinkedIn: www.linkedin.com/in/md-afjal-ali-6a9884255
+  
 ---
 
 ##  Current Focus
